@@ -32,12 +32,12 @@ extract($_GET);
 
 <html>
     <head>
-       <title>PHP Calculator Example: Version 2</title>
+       <title>Calculator - Andreea</title>
     </head>
 
     <body>
 
-        <h3>PHP Calculator (Version 2)</h3>
+        <h3>Calculator</h3>
       
         <form method="get" action="<?php echo $_SERVER['PHP_SELF']; ?>">
 
@@ -72,8 +72,6 @@ extract($_GET);
         }
     ?>
     <hr height="2px" align="left" width="340px" />
-    <p>See code: <a href="calculator_v2.phps">calculator_v2.phps</a></p>
-    <p>Notes:<br/>
 	    <h3> Andreea Neaga </h3>
   </body>
 </html>
