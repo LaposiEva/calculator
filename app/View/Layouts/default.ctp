@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<h3>Andreea</h3>
+		<title>Andreea</title>
 	</head>
 	<body>
 		<p>Andreea Neaga </p>
